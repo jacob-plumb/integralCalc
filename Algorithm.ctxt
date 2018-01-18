@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Algorithm
+comment1.params=equation
+comment1.target=Algorithm(java.lang.String)
+comment2.params=function
+comment2.target=java.lang.String\ posOrNeg(java.lang.String)
+comment3.params=
+comment3.target=void\ printTerms()
+numComments=4
